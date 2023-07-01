@@ -116,6 +116,26 @@ export class UserListComponent implements OnInit {
     this.dataSource.filter = filterValue.trim().toLowerCase();
   }
 }
+Winner list
+The first winner is:
+user2": {
+      "name": "Emily",
+      "age": 30,
+      "score": 92
+    }
+The second winner is:
+user1": {
+      "name": "John",
+      "age": 25,
+      "score": 85
+    }
+The third winner is:
+user3": {
+      "name": "Michael",
+      "age": 21,
+      "score": 78
+    }
+
 
 
 
