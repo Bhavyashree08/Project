@@ -34,3 +34,23 @@ export class AppRoutingModule { }
 <app-top-bar></app-top-bar>
 <router-outlet></router-outlet>
 ng serve
+Firebase Realtime Database
+{
+  "users": {
+    "user1": {
+      "name": "John",
+      "age": 25,
+      "score": 85
+    },
+    "user2": {
+      "name": "Emily",
+      "age": 30,
+      "score": 92
+    },
+    "user3": {
+      "name": "Michael",
+      "age": 21,
+      "score": 78
+    }
+  }
+}
