@@ -135,6 +135,14 @@ user3": {
       "age": 21,
       "score": 78
     }
+Topper table
+Topper=user>90;
+user2": {
+      "name": "Emily",
+      "age": 30,
+      "score": 92
+    }
+
 
 
 
